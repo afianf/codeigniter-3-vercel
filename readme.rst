@@ -14,7 +14,7 @@ for a given task.
 Demo
 *******************
 
-`https://ci3.vercel.app/api <https://ci3.vercel.app/api>`
+`https://ci3.vercel.app/api <https://ci3.vercel.app/api>`_
 
 *******************
 Release Information
